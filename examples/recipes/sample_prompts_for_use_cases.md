@@ -1,6 +1,6 @@
 # Sample Prompts for AI Agent Use Cases
 
-A comprehensive collection of 101 real-world agent prompts across marketing, sales, operations, engineering, finance, and more. Use these as inspiration for building your own specialized agents.
+A comprehensive collection of real-world agent prompts across marketing, sales, operations, engineering, finance, and more. Use these as inspiration for building your own specialized agents.
 
 ## Table of Contents
 
